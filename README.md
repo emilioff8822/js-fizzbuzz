@@ -8,3 +8,13 @@ Abbiamo visto qualcosa di particolare che possiamo usare?
 **Consigli del giorno:**
 1. Scriviamo sempre prima dei commenti in italiano per capire cosa vogliamo fare
 2. Proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo “a mano”
+
+
+
+Questo ciclo for inizia con il numero 1 e finisce con il numero 100. Per ogni numero nell'intervallo, viene eseguito un controllo:
+
+Se il numero è sia un multiplo di 3 che di 5, viene stampato "FizzBuzz".
+Altrimenti, se il numero è un multiplo di 3, viene stampato "Fizz".
+Altrimenti, se il numero è un multiplo di 5, viene stampato "Buzz".
+Altrimenti, il numero viene stampato così com'è.
+La funzione console.log() viene utilizzata per stampare il risultato nella console del browser o dell'IDE di sviluppo.
